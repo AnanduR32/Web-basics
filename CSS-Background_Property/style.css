@@ -1,0 +1,10 @@
+
+
+.Background{
+    background: url(Background.jpg);
+    height: 100%;
+    background-repeat: no-repeat; /*prevents the repetition of the image*/
+    background-position: center center; /*shifts the start point of background image to specified position*/
+    background-size: cover;
+    background-attachment: fixed; /*background position fixed similar to block positioning*/
+}

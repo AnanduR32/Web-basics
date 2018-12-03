@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+p{
+    margin:0;
+}
+
+.box{
+    width: 70%;
+    border: 10px solid orange;
+    margin: 0 auto;
+}
+.yellow{
+    width:100%;
+    background: yellow;
+    height :auto;
+    padding: 2em;
+    
+}
+.violet{
+    width:100%;
+    background: violet;
+    height :auto;
+    padding: 2em;
+   
+}

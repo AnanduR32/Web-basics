@@ -1,0 +1,17 @@
+h1,p{
+    border: 1px solid #000000;
+    padding: 0.625em; 
+    margin:1.2em;
+}
+#nam{
+    border: 10px solid purple;
+    padding: 0.5em;
+    margin-top:2em;
+}
+#n{
+    border-top: 1em solid orange;
+    border-bottom: 1em solid orange;
+    border-left:none;
+    border-right:none;    
+    padding: 0.5em;
+}

@@ -1,0 +1,30 @@
+.fg1{
+    font-family: 'Merienda', cursive;
+    display:inline;
+    background-color: crimson;
+}
+.fg2{
+    font-family: 'Merienda', cursive;
+    display: block;
+    background-color: palevioletred;
+}
+.fg3{
+    font-family: 'Merienda', cursive;
+    display:inline;
+    background-color: gold;
+}
+.fg4{
+    font-family: 'Merienda', cursive;
+    display: inline-block;
+    background-color: olivedrab;
+}
+.fg5{
+    font-family: 'Merienda', cursive;
+    display:none;
+    background-color: pink;
+}
+.fg6{
+    font-family: 'Merienda', cursive;
+    background-color: cornflowerblue;
+    display :none;
+}

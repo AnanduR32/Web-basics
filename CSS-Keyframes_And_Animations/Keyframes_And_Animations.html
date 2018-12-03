@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Anandu R">
+    <meta name="description" content="Learning CSS : Keyframes And Animations">
+    <meta name="viewport" content="width=device-width, initial-scaling=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
+    <style>
+        .ball{
+            background: red;
+            width: 10px;
+            height: 50px;
+            border-radius: 40%;
+            animation: bounce 3.5s/*Iteration Duration*/ linear/*Type*/ 1ms/*Iteration delay*/ infinite/*Number of iterations ~Can use numerals*/;
+            /*animation-name: bounce;
+            animation-duration: 3.5s;*/
+            position: relative
+        }
+        @keyframes bounce{
+            0%{
+                top:0px;
+                background: green;
+            }
+            50%{
+                top:250px;
+                background: yellow;
+            }
+            100%{
+                top:500px;
+            }
+        }
+    </style>
+    <title>Keyframes And Animations</title>
+</head>
+<body>
+    <div class="ball"></div>
+    
+</body>
+</html>

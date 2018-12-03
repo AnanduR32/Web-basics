@@ -1,0 +1,26 @@
+/*This is a Stylesheet*/
+
+#para1{   /*paragraph tag with the id para1 is only styled*/
+    color:darkcyan;
+    font-size: 24px;
+    font-style: italic;
+}
+p{        /*All paragraph tags are styled*/
+    color:saddlebrown;
+    font-size: 14px;
+    font-style: oblique;
+}
+#para2{   /*paragraph tag with the id para2 is only styled*/
+    color:dimgrey;
+    font-size: 34px;
+    font-style: normal;
+}
+
+.middle{  /*Elements with the idea having class "middle" are all styled, make an element a part of class middle to apply the following styling to that element*/
+    text-align: center;
+}
+
+h1,h2,h3{
+    font-style: oblique;
+    text-align: right;
+}

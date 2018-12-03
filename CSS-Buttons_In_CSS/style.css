@@ -1,0 +1,98 @@
+.Border-button{
+    background: none;
+    border-radius: 15px;
+    
+    border: 2px solid red;
+    text-align: center;
+    display: inline-block;
+    font-size: 50px;
+    padding: 5px;
+}
+.Background-button{
+    border: none;
+    border-radius: 5px;
+    padding-right: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 50px;
+    padding: 5px;
+    
+}
+.Hover-button{
+    background: none;
+    border-radius: 15px;
+    
+    border: 2px solid red;
+    text-align: center;
+    display: inline-block;
+    font-size: 50px;
+    padding: 5px;
+}
+#one{
+    color: aquamarine;
+    background: wheat;
+}
+#two{
+    color: cornflowerblue;
+    background: hotpink;
+}
+#three{
+    color: orangered;
+    background: pink;
+}
+#four{
+    color: violet;
+    background: blue;
+}
+#five{
+    color: aquamarine;
+    
+}
+#six{
+    color: cornflowerblue;
+   
+}
+#seven{
+    color: orangered;
+    
+}
+#eight{
+    color: violet;
+    
+}
+#nine{
+    color: aquamarine;
+    
+}
+#nine:hover{
+    background: orange;
+    border: none;
+    color: cadetblue;
+}
+#ten{
+    color: cornflowerblue;
+   
+}
+#ten:hover{
+    background: orange;
+    border: none;
+    color: cadetblue;
+}
+#eleven{
+    color: orangered;
+    
+}
+#eleven:hover{
+    background: orange;
+    border: none;
+    color: cadetblue;
+}
+#twelve{
+    color: violet;
+    
+}
+#twelve:hover{
+    background: orange;
+    border: none;
+    color: cadetblue;
+}

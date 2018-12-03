@@ -1,0 +1,16 @@
+.Background{
+    background: linear-gradient(135deg,rgba(201,43,102,0.5),rgba(2,43,204,0.5)), url(Background.jpg);
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    line-height: 1.5;
+    width: 100%;
+    height:1000px;
+    text-align: center;
+    background-position: center center;
+    background-size: cover;
+    color:white;
+}
+/*.transparent-bg{
+    background: rgba(201,43,102,0.5);
+    padding: 1em;
+}*/

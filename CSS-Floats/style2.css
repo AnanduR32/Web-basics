@@ -1,0 +1,7 @@
+.contain{
+    border: 2px solid #000000;
+    overflow: hidden;
+}
+#image{
+    float:left;
+}

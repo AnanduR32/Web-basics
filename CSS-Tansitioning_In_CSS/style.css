@@ -1,0 +1,26 @@
+.button1{
+    background: none;
+    width:300px;
+    border:2px solid black;
+    color: black;
+}
+
+.button1:hover{
+    background:skyblue;
+}
+
+.button2{
+    background: none;
+    width:300px;
+    border:2px solid black;
+    color: black;
+    transition: all 0.3s ease-in 1ms;
+    /*transition-property: background;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in;
+    transition-delay: 1ms;*/
+}
+.button2:hover{
+    background: pink;
+    margin-left: 5px;
+}

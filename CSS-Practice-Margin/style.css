@@ -1,0 +1,10 @@
+header{
+    background: violet;
+    color: aliceblue;
+    
+}
+.auto{
+    max-width: 1280px;
+    margin: 0 auto; /*brings content to center, only elements are aligned centrally and not the text, 0 specifies the top down values, and auto specifies the left right values*/
+    padding: 2em;
+}

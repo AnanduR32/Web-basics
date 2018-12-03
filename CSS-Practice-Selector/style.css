@@ -1,0 +1,22 @@
+body{
+    color: #F04622;
+    font-weight: 700;/*Thickness of the text is determined using the font-weight*/
+    line-height: 1.2em;/*Gap between paragraphs*/
+    
+}
+header{
+    color: rgb(18, 186, 211);
+}
+#second{
+    color: greenyellow; /*otherwise can also use the hex value or rgb as "rgb(xx,xx,xx)" where xx is any number between 0-255*/
+    font-style: italic;
+    font-family: monospace;
+    font-size: 20px; /*px is not scalable i.e. mobile friendly therefore "em" is preferred... 1em=16px*/
+}
+.middle{
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    font-size: 0.7em;
+    text-decoration: underline;/*typography modify text*/
+    text-transform: capitalize;/*typography modify text, capitalize converts the first alphabet of each word to uppercase*/
+}
